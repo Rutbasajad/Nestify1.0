@@ -31,7 +31,7 @@ import totalRevenueIcon from "./totalRevenueIcon.svg";
 import propertyIcon from "./propertyIcon.svg";
 import priceRangeIcon from "./priceRangeIcon.svg";
 import regImage from './regImage.png';
-import closeIcon from './closeIcon.png';
+
 
 
 export const assets = {
